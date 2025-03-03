@@ -3,7 +3,7 @@ const events = [
     { name: 'Concert A', date: '2025-02-20', description: 'Enjoy the best music!', img: 'event1.jpg' },
     { name: 'Art Gallery Opening', date: '2025-02-25', description: 'Discover contemporary art.', img: 'event2.jpg' },
     { name: 'Tech Conference', date: '2025-03-01', description: 'Innovations in technology.', img: 'event3.jpg' },
-    // More events can be added
+  
 ];
 
 // Function to render event cards
